@@ -5,7 +5,7 @@ TEST CASE1:Search with valid product data.
 TEST DATA: Snowboard
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search enter 'Snowboard'
 Click search icon.
@@ -19,7 +19,7 @@ TEST CASE2:Search with partial product data.
 TEST DATA: snow
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search enter 'snow'
 Click search icon.
@@ -33,7 +33,7 @@ TEST CASE3:Search with special charecters(complex-long strings).
 TEST DATA: @#$!@#$ttyt
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search enter '@#$!@#$ttyt'
 Click search icon.
@@ -46,7 +46,7 @@ TEST CASE4:Search with without passing any data.
 TEST DATA: No-data
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search ,enter nothing 
 Click search icon.
@@ -61,7 +61,7 @@ TEST CASE5:Add item to cart,check the cart,click check out button
 TEST DATA: The Collection Snowboard: Liquid
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search ,enter "The Collection Snowboard: Liquid"
 Click search icon.
@@ -78,7 +78,7 @@ TEST CASE6:Check Add cart button appears for sold out products.
 TEST DATA: Football - 2023 - Panini Illusions Football - Hobby Box (10 Packs)
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search ,enter "Football - 2023 - Panini Illusions Football - Hobby Box (10 Packs)"
 Click search icon.
@@ -93,7 +93,7 @@ TEST DATA: snow
           The Videographer Snowboard  
 
 TEST STEPS:
-Open https://adnabu-store-assignment1.myshopify.com in any chrome.
+Open https://adnabu-store-assignment1.myshopify.com in chrome browser.
 Login with your credetials
 In Product Search ,enter "snow"
 Click search icon.
